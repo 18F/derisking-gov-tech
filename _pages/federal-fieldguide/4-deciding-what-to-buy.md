@@ -521,9 +521,8 @@ Red flags:
 
 -   Don't seem to understand program goals. They seriously misunderstand information that was described clearly in the solicitation.
 
+ -   Excessive complexity. 
 -   Misidentifying the name of technologies in such a way that shows a lack of experience communicating about them (e.g. "we'll index records with an Elasticsearch," instead of "with Elasticsearch," or "we recommend using JAVA," instead of "Java").
-
--   Excessive complexity. 
 
 -   They shirk page-limit rules (tiny fonts, reduced leading, etc.) because they believe their technical approach to be so brilliant that it can't possibly fit within the prescribed limit.
 
