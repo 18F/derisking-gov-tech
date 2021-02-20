@@ -543,8 +543,6 @@ Red flags:
 
 -   They describe the goal of research as being to "test the app with users," "find problems," or ask users what they "like," "want," or "might do" (shows that they draw conclusions based on what users say instead of observing and learning from users what they do).
 
--   They use the term "user testing" instead of "usability testing" (not testing the user, testing the system's functionality).
-
 -   They propose relying on focus groups, instead of structured, one-on-one research interviews or usability testing sessions.
 
 -   They prioritize aesthetics over usability and usefulness, and cannot explain why they made design decisions. 
